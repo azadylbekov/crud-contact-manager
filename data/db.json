@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "name": "Azamat",
+      "email": "azamat.adylbekov@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Steve Jobs",
+      "email": "steve@gmail.com",
+      "id": 4
+    }
+  ]
+}
